@@ -5,7 +5,7 @@ var OrderController=function(req,res){
 console.log("list is following");
 
 var orders=[
-{id:1,name:"namrata",amount:45000,status:"completed"},
+{id:1,name:"namrata",amount:65000,status:"completed"},
 {id:2,name:"jaya",amount:25000,status:"completed"},
 {id:3,name:"neha",amount:35000,status:"not completed"}
 ];
